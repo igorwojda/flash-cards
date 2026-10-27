@@ -10,6 +10,8 @@ Common flashcard types, typically used with [Anki](https://apps.ankiweb.net/).
 - [Definition](card/definition.md) - term and its definition, studied in both directions
 - [Cloze](card/cloze.md) - sentence with a single key part hidden
 - [Multi Cloze](card/multi-cloze.md) - sentence with multiple related parts hidden, one card per gap number
+- [Wrong → Right](card/wrong-right.md) - wrong statement or approach and its corrected version
+- [Rephrase](card/rephrase.md) - clumsy phrase and better phrasing
 
 # General Rules
 
