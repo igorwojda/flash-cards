@@ -1,5 +1,12 @@
 # 📝 Question And Answer
 
+Simple question and answear.
+
+How to do X?
+Why given example is correct/incorrect?
+What is good/bad about a solution X?
+What are advanatges/disatvanatges of about solution X?
+
 ## Structure
 
 Card Type: Basic
