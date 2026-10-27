@@ -25,13 +25,13 @@ Add hint to rule out near-miss answers, e.g. `(3 names)`, `(general)`.
 Side 1:  
 
 ```
-What Maestro tests?
+What does Maestro test?
 ```
 
 Side 2:  
 
 ```
-User journeys and variations of these journeys 
+User journeys and variations of these journeys
 ```
 
 ## Example
@@ -39,11 +39,11 @@ User journeys and variations of these journeys
 Side 1:  
 
 ```
-What Maestro tests?
+What does Maestro test?
 ```
 
 Side 2:  
 
 ```
-User journeys and variations of these journeys 
+User journeys and variations of these journeys
 ```

@@ -13,7 +13,7 @@ Side 2: Full sentence (optional `Extra` explanation)
 ## Tip
 
 Hide only the key word or phrase, not the whole sentence.
-Hint can be added to close card `{{c1::Hidden Text::Hint}}`.
+Hint can be added to cloze card `{{c1::Hidden Text::Hint}}`.
 
 ## Example
 

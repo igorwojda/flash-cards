@@ -16,11 +16,10 @@ Common flashcard types, typically used with [Anki](https://apps.ankiweb.net/).
 
 # General Rules
 
-1. Keep cards compact and atomic
-2. refine cards over time
-3. Avoid Punctuation and the end of sentences or bullet points
-4. Keep text minimal and compact
+1. Keep cards atomic, text minimal and compact
     1. Use AI to compact text - `Compact this and rephrase 3x...`
     2. Use AI to generate few versions to pick one suits you best - `Rephrase 3x...`
-5. Add deck name to all card types to provide context
-6. Add diagrams, screenshots, and other visual elements to cards
+2. Refine cards over time
+3. Avoid punctuation at the end of sentences or bullet points
+4. Add deck name or `Context` field to provide context
+5. Add diagrams, screenshots, and other visual elements to cards

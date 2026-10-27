@@ -32,3 +32,24 @@ Side 2:
 ```
 With bad habits, the immediate outcome feels good, but the ultimate outcome feels bad
 ```
+
+## Example With Shared Gap Number
+
+Side 1:  
+
+```
+{{c1::Passive}} learning creates {{c2::knowledge}}
+{{c1::Active}} learning creates {{c2::skill}}
+```
+
+Anki generates 2 cards:
+
+- Card 1: `[...] learning creates knowledge / [...] learning creates skill`
+- Card 2: `Passive learning creates [...] / Active learning creates [...]`
+
+Side 2:  
+
+```
+Passive learning creates knowledge
+Active learning creates skill
+```

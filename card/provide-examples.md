@@ -25,7 +25,7 @@ Side 1:
 Side 2:  
 
 ```
-1. Sumarize youtube video
-2. Analize claims in a debate
+1. Summarize YouTube video
+2. Analyze claims in a debate
 3. Create meeting summary
 ```
