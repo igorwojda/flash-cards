@@ -1,5 +1,7 @@
 # 📝 Question And Answer Example
 
+## Structure
+
 Card Type: Basic
 
 Side 1: Question asking for examples

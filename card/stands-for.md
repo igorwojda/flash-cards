@@ -1,4 +1,6 @@
-# 📝 Stands For
+# 📝 Acronym Stands For
+
+## Structure
 
 Card Type: Basic
 

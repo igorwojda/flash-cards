@@ -1,5 +1,7 @@
 # 📝 Question And Answer
 
+## Structure
+
 Card Type: Basic
 
 Side 1: Question

@@ -1,5 +1,7 @@
 # 📝 Definition
 
+## Structure
+
 Card Type: Basic And Reverse
 
 Side 1: Term

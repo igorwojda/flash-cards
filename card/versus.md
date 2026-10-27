@@ -1,13 +1,11 @@
 # 📝 Versus
 
+## Structure
+
 Card Type: Basic
 
 Side 1: Two or three **related** terms
 Side 2: Definition of each term
-
-## Tip
-
-When all definitions share a structure, add a `Pattern:` line on Side 1.
 
 ## Example
 
@@ -15,7 +13,6 @@ Side 1:
 
 ```
 Verify vs Evaluate
-Pattern: Definition -> Result
 ```
 
 Side 2:  
