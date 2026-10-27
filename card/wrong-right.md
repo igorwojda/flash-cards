@@ -12,7 +12,7 @@ Side 2: ✅ Right version
 
 ## Tip
 
-Can be used to build vocabulary and more natural expressions.
+Use for mindset, habit or approach. For wording only, use [Rephrase](rephrase.md).
 
 ## Example
 

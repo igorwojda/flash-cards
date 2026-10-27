@@ -1,5 +1,7 @@
 # 📝 Card Name
 
+<Short description of card type>
+
 ## Structure
 
 Card Type: Basic

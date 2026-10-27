@@ -10,6 +10,10 @@ Card Type: Basic
 Side 1: Question asking for examples
 Side 2: List of examples
 
+## Tip
+
+To recall a complete list, use [Enumerate N Items](enumerate-n-items.md).
+
 ## Example
 
 Side 1:  

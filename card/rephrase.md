@@ -12,6 +12,8 @@ Side 2: Better phrase
 
 ## Tip
 
+Use AI to find better phrasing - `Rephrase 5x...`
+
 ## Example
 
 Side 1:  

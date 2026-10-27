@@ -1,4 +1,4 @@
-# 📝 Question And Answer
+# 📝 Question And Answer
 
 Simple question and answer.
 
@@ -17,6 +17,22 @@ Side 1: Question
 Side 2: Answer
 
 ## Tip
+
+Add hint to rule out near-miss answers, e.g. `(3 names)`, `(general)`.
+
+## Example
+
+Side 1:  
+
+```
+What Maestro tests?
+```
+
+Side 2:  
+
+```
+User journeys and variations of these journeys 
+```
 
 ## Example
 
