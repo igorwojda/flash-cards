@@ -13,6 +13,7 @@ Side 2: Full sentence (optional `Extra` explanation)
 ## Tip
 
 Hide only the key word or phrase, not the whole sentence.
+Hint can be added to close card `{{c1::Hidden Text::Hint}}`.
 
 ## Example
 
@@ -23,6 +24,22 @@ Larger vocabulary size means {{c1::fewer}} tokens
 ```
 
 Anki shows: `Larger vocabulary size means [...] tokens`
+
+Side 2:  
+
+```
+Larger vocabulary size means fewer tokens
+```
+
+## Example With Hint
+
+Side 1:  
+
+```
+Larger vocabulary size means {{c1::fewer::amount}} tokens
+```
+
+Anki shows: `Larger vocabulary size means [amount] tokens`
 
 Side 2:  
 
