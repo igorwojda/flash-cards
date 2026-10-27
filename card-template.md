@@ -2,7 +2,10 @@
 
 Card Type: Basic
 
-Side 1 contains ..., Side 2 contains ...
+Side 1: 
+Side 2: 
+
+## Tip
 
 ## Example
 

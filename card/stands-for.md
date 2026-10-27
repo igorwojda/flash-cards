@@ -2,7 +2,10 @@
 
 Card Type: Basic
 
-Side 1 contains acronym, Side 2 contains expansion.
+Side 1: Acronym
+Side 2: Expansion
+
+## Tip
 
 ## Example
 

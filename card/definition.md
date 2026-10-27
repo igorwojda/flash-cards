@@ -2,7 +2,10 @@
 
 Card Type: Basic And Reverse
 
-Side 1 contains term, Side 2 contains definition.
+Side 1: Term
+Side 2: Definition
+
+## Tip
 
 ## Example
 

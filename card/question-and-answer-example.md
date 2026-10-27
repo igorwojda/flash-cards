@@ -2,11 +2,12 @@
 
 Card Type: Basic
 
-Side 1 contains question, Side 2 contains answer contains example.
+Side 1: Question asking for examples
+Side 2: Examples
 
-## Tips
+## Tip
 
-It’s good to mention numer of examples answer card contains.
+Mention the number of examples in the question (e.g. "3 Examples of ...").
 
 ## Example
 

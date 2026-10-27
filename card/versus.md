@@ -3,17 +3,13 @@
 Card Type: Basic
 
 Side 1: Two or three **related** terms
+Side 2: Definition of each term
 
-Side 2: Contains definitions of these terms.
+## Tip
 
-Optionally provide pattern if each definition has structure e.g.
-
-Side 1: 2–3 related terms. Side 2: definition of each.
-Optional: add a tip on Side 1 when all definitions share a structure.
+When all definitions share a structure, add a `Pattern:` line on Side 1.
 
 ## Example
-
-## Example (With Pattern)
 
 Side 1:  
 

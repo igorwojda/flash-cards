@@ -2,7 +2,10 @@
 
 Card Type: Basic
 
-Side 1 contains question, Side 2 contains answer.
+Side 1: Question
+Side 2: Answer
+
+## Tip
 
 ## Example
 
