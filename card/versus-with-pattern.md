@@ -1,6 +1,7 @@
 # 📝 Versus With Pattern
 
-Versus definition that contains multiple aspects where all definitions share a pattern (answear structure). 
+Compare two or three sililar concepts with each other.
+Versus variant definition that contains multiple aspects where all definitions share a pattern (answear structure). 
 Pattern in marked as `Pattern:` text as last line in Side 1.
 
 ## Structure

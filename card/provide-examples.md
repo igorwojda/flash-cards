@@ -1,15 +1,14 @@
-# 📝 Question And Answer Example
+# 📝 Provide Examples
+
+Question asks for a specific number of examples (e.g. "3 Examples of ..."). 
+Keep it small (3-5): a sample, not a full list.
 
 ## Structure
 
 Card Type: Basic
 
 Side 1: Question asking for examples
-Side 2: Examples
-
-## Tip
-
-Mention the number of examples in the question (e.g. "3 Examples of ...").
+Side 2: List of examples
 
 ## Example
 

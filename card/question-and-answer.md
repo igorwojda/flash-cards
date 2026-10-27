@@ -20,5 +20,5 @@ What Maestro tests?
 Side 2:  
 
 ```
-Test user journeys and variations of these journeys 
+User journeys and variations of these journeys 
 ```
