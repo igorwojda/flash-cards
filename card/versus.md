@@ -12,12 +12,12 @@ Side 2: Definition of each term
 Side 1:  
 
 ```
-Verify vs Evaluate
+Concurrent vs Parallel
 ```
 
 Side 2:  
 
 ```
-Verify - check against a fixed criterion or truth → binary result (pass/fail)
-Evaluate - judge against a scale of quality or value → graded result (score/rating)
+Concurrent - multiple tasks execute during overlapping time periods
+Parallel - multiple tasks execute at the same time on multiple cores
 ```

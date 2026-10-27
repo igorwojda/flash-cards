@@ -1,15 +1,21 @@
-# 📝 Versus With Pattern
+# 📝 Versus With Pattern
 
-Compare two or three sililar concepts with each other.
-Versus variant definition that contains multiple aspects where all definitions share a pattern (answear structure). 
-Pattern in marked as `Pattern:` text as last line in Side 1.
+Versus where every definition follows the same structure (pattern).
+Pattern is added in brackets as last line of Side 1, e.g. `(definition + result)`.
 
 ## Structure
 
 Card Type: Basic
 
-Side 1: Two or three **related** terms
-Side 2: Definition of each term
+Side 1: Two or three **related** terms and `(pattern)`
+Side 2: Definition of each term following the pattern
+
+## Tip
+
+Each definition covers all pattern aspects in the same order:
+
+- Verify - Definition: "check against a fixed criterion or truth" → Result: "binary result"
+- Evaluate - Definition: "judge against a scale of quality or value" → Result: "graded result"
 
 ## Example
 
@@ -17,17 +23,12 @@ Side 1:
 
 ```
 Verify vs Evaluate
-Pattern: Definition -> Result
+(definition + result)
 ```
 
-Side 2:
+Side 2:  
 
 ```
-Verify - check against a fixed criterion or truth → binary result
-Evaluate - judge against a scale of quality or value → graded result
+Verify - check against a fixed criterion or truth → binary result (pass/fail)
+Evaluate - judge against a scale of quality or value → graded result (score/rating)
 ```
-
-Each item covers these aspects:
-
-Name: "Verify" - Definition: "check against a fixed criterion or truth" → Result "binary result"
-Name: "Evaluate" - Definition: "judge against a scale of quality or value" → Result "graded result"
