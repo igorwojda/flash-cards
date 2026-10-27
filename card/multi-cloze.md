@@ -7,8 +7,8 @@ Each `cN` number generates a separate card. Gaps with the same number are hidden
 
 Card Type: Cloze
 
-Side 1: Sentence with multiple gaps (`{{c1::...}}`, `{{c2::...}}`)
-Side 2: Full sentence (optional `Extra` explanation)
+Text: Sentence with multiple gaps (`{{c1::...}}`, `{{c2::...}}`)
+Back Extra: Optional explanation
 
 ## Tip
 
@@ -16,7 +16,7 @@ Use for paired or contrasting parts (immediate/ultimate, knowledge/skill)
 
 ## Example
 
-Side 1:  
+Text:  
 
 ```
 With bad habits, the {{c1::immediate}} outcome feels good, but the {{c2::ultimate}} outcome feels bad
@@ -24,18 +24,13 @@ With bad habits, the {{c1::immediate}} outcome feels good, but the {{c2::ultimat
 
 Anki generates 2 cards:
 
-- Card 1: `With bad habits, the [...] outcome feels good, but the ultimate outcome feels bad`
-- Card 2: `With bad habits, the immediate outcome feels good, but the [...] outcome feels bad`
-
-Side 2:  
-
-```
-With bad habits, the immediate outcome feels good, but the ultimate outcome feels bad
-```
+- Card 1 front: `With bad habits, the [...] outcome feels good, but the ultimate outcome feels bad`
+- Card 2 front: `With bad habits, the immediate outcome feels good, but the [...] outcome feels bad`
+- Back (both): `With bad habits, the immediate outcome feels good, but the ultimate outcome feels bad`
 
 ## Example With Shared Gap Number
 
-Side 1:  
+Text:  
 
 ```
 {{c1::Passive}} learning creates {{c2::knowledge}}
@@ -44,12 +39,6 @@ Side 1:
 
 Anki generates 2 cards:
 
-- Card 1: `[...] learning creates knowledge / [...] learning creates skill`
-- Card 2: `Passive learning creates [...] / Active learning creates [...]`
-
-Side 2:  
-
-```
-Passive learning creates knowledge
-Active learning creates skill
-```
+- Card 1 front: `[...] learning creates knowledge / [...] learning creates skill`
+- Card 2 front: `Passive learning creates [...] / Active learning creates [...]`
+- Back (both): `Passive learning creates knowledge / Active learning creates skill`

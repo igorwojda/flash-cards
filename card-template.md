@@ -4,10 +4,12 @@
 
 ## Structure
 
-Card Type: Basic
+Card Type: Basic | Basic (and reversed card) | Cloze
 
 Side 1: <Short Description of side>
 Side 2: <Short Description of side>
+
+<For Cloze use `Text:` / `Back Extra:` instead of `Side 1:` / `Side 2:`>
 
 ## Tip
 

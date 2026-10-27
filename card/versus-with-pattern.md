@@ -12,10 +12,7 @@ Side 2: Definition of each term following the pattern
 
 ## Tip
 
-Each definition covers all pattern aspects in the same order:
-
-- Verify - Definition: "check against a fixed criterion or truth" → Result: "binary result"
-- Evaluate - Definition: "judge against a scale of quality or value" → Result: "graded result"
+Cover all pattern aspects in the same order, with the same separator per aspect, e.g. `-` before definition, `→` before result.
 
 ## Example
 

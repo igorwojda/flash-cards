@@ -7,8 +7,8 @@ Recall the hidden part from the rest of the sentence.
 
 Card Type: Cloze
 
-Side 1: Sentence with one gap (`{{c1::...}}`)
-Side 2: Full sentence (optional `Extra` explanation)
+Text: Sentence with one gap (`{{c1::...}}`)
+Back Extra: Optional explanation
 
 ## Tip
 
@@ -17,32 +17,26 @@ Hint can be added to cloze card `{{c1::Hidden Text::Hint}}`.
 
 ## Example
 
-Side 1:  
+Text:  
 
 ```
 Larger vocabulary size means {{c1::fewer}} tokens
 ```
 
-Anki shows: `Larger vocabulary size means [...] tokens`
+Anki shows:
 
-Side 2:  
-
-```
-Larger vocabulary size means fewer tokens
-```
+- Front: `Larger vocabulary size means [...] tokens`
+- Back: `Larger vocabulary size means fewer tokens`
 
 ## Example With Hint
 
-Side 1:  
+Text:  
 
 ```
 Larger vocabulary size means {{c1::fewer::amount}} tokens
 ```
 
-Anki shows: `Larger vocabulary size means [amount] tokens`
+Anki shows:
 
-Side 2:  
-
-```
-Larger vocabulary size means fewer tokens
-```
+- Front: `Larger vocabulary size means [amount] tokens`
+- Back: `Larger vocabulary size means fewer tokens`
