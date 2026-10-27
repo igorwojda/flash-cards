@@ -1,11 +1,14 @@
 # 📝 Question And Answer
 
-Simple question and answear.
+Simple question and answer.
 
-How to do X?
-Why given example is correct/incorrect?
-What is good/bad about a solution X?
-What are advanatges/disatvanatges of about solution X?
+Common question forms:
+
+- Why X? - reason behind a fact or choice (e.g. Why is XML preferred over JSON for LLM input?)
+- Why is example X correct/incorrect?
+- How to do X? - procedure or command, numbered steps if order matters
+- What is good/bad about solution X?
+- What are advantages/disadvantages of solution X?
 
 ## Structure
 

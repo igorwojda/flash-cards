@@ -8,6 +8,8 @@ Common flashcard types, typically used with [Anki](https://apps.ankiweb.net/).
 - [Versus With Pattern](card/versus-with-pattern.md) - like Versus, with a shared `Pattern:` structure for multi-aspect definitions
 - [Acronym Stands For](card/stands-for.md) - acronym and its expansion
 - [Definition](card/definition.md) - term and its definition, studied in both directions
+- [Cloze](card/cloze.md) - sentence with a single key part hidden
+- [Multi Cloze](card/multi-cloze.md) - sentence with multiple related parts hidden, one card per gap number
 
 # General Rules
 
