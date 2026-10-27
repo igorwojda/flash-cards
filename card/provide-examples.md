@@ -1,6 +1,6 @@
 # 📝 Provide Examples
 
-Question asks for a specific number of examples (e.g. "3 Examples of ..."). 
+Question asks for a specific number of examples (e.g. "3 Examples of ...").
 Keep it small (3-5): a sample, not a full list.
 
 ## Structure
